@@ -1,1 +1,1 @@
-# MyGreatAppRequirements-
+#MyCourseProjectApp
